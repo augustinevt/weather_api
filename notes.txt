@@ -1,0 +1,25 @@
+npm packages:
+'gulp'
+'vinyl-source-stream'
+'gulp-concat'
+'browserify'
+'del'
+gulp-util --production
+jshint
+gulp-jshint
+bower
+bower-files
+
+
+notes:
+
+  remember:
+    npm init
+    bower init
+    bower install (similar to bundle)
+
+    things to run
+      $ bower install jquery --save
+      $ bower install
+      $ bower install bootstrap --save
+      $ bower install moment --save
